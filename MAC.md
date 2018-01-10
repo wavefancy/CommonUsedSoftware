@@ -19,3 +19,9 @@ brew install tmux
 
 > open the support for mouse model:
 `echo 'set -g mouse on' > ~/.tmux.conf`
+
+### Create any webpage as app 
+https://github.com/jiahaog/nativefier
+> Install nativefier: `npm install nativefier -g`
+
+> Webpage to app: `nativefier "http://medium.com"`
