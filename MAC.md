@@ -7,6 +7,8 @@ Spectacle: https://www.spectacleapp.com/
 
 ### Terminator 
 Iterm2: https://www.iterm2.com
+Hyper: https://github.com/zeit/hyper
+hyper-material-box: https://www.npmjs.com/package/hyper-material-box
 
 ### Brew for package installation
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
