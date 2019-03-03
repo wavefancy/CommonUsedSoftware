@@ -27,3 +27,6 @@ https://github.com/jiahaog/nativefier
 > Install nativefier: `npm install nativefier -g`
 
 > Webpage to app: `nativefier "http://medium.com"`
+
+### wifi analysis
+WiFi Explorer Lite
