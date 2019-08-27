@@ -30,3 +30,6 @@ https://github.com/jiahaog/nativefier
 
 ### wifi analysis
 WiFi Explorer Lite
+
+### Color Picker for mac
+https://apps.apple.com/us/app/color-picker/id945374555?mt=12
