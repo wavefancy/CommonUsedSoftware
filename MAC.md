@@ -33,3 +33,6 @@ WiFi Explorer Lite
 
 ### Color Picker for mac
 https://apps.apple.com/us/app/color-picker/id945374555?mt=12
+
+### Ruler on the screen
+http://theapps4u.com/mac.htm
