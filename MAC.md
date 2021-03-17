@@ -41,3 +41,6 @@ http://theapps4u.com/mac.htm
 - [Disk Inventory X](http://www.derlien.com/)
 - [腾讯柠檬清理](https://lemon.qq.com/)
 
+### Note taking
+- [Quiver](https://github.com/HappenApps/Quiver/wiki)
+
