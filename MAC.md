@@ -23,9 +23,10 @@ brew install tmux
 `echo 'set -g mouse on' > ~/.tmux.conf`
 
 ### Create any webpage as app 
-https://github.com/jiahaog/nativefier
-> Install nativefier: `npm install nativefier -g`
+https://github.com/jiahaog/nativefier \
+[How to install npm by brew on mac](https://changelog.com/posts/install-node-js-with-homebrew-on-os-x)
 
+> Install nativefier: `npm install nativefier -g` \
 > Webpage to app: `nativefier "http://medium.com"`
 
 ### wifi analysis
