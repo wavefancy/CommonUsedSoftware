@@ -27,7 +27,7 @@ https://github.com/jiahaog/nativefier \
 [How to install npm by brew on mac](https://changelog.com/posts/install-node-js-with-homebrew-on-os-x)
 
 > Install nativefier: `npm install nativefier -g` \
-> Webpage to app: `nativefier "http://medium.com"` \
+> Webpage to app: `nativefier "http://medium.com" ; nativefier --name 'My Medium App' 'medium.com'` \
 > clean up brew after insall: `brew cleanup`
 
 ### wifi analysis
