@@ -1,6 +1,7 @@
 
 ### Diagram software:
 yED: https://www.yworks.com/products/yed
+Dia: http://dia-installer.de/index.html.en
 
 ### Organize window:
 Spectacle: https://www.spectacleapp.com/
