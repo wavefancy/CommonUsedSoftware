@@ -50,3 +50,6 @@ http://theapps4u.com/mac.htm
 
 ### Timer
 - https://flowapp.info/
+
+### Author title page handling
+- https://authorarranger.nci.nih.gov/#/web-tool
