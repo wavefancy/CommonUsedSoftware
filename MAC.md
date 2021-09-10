@@ -29,6 +29,7 @@ https://github.com/jiahaog/nativefier \
 
 > Install nativefier: `npm install nativefier -g` \
 > Webpage to app: `nativefier "http://medium.com" ; nativefier --name 'My Medium App' 'medium.com'` \
+> Clean caches when rebuild an app: `nativefier --name 'MApp' 'medium.com'` --clear-cache \
 > Special care for building gmail: `nativefier https://mail.google.com/mail --user-agent 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0' --name "gmail" --internal-urls ".*accounts .google.com.*"`
 > clean up brew after insall: `brew cleanup`
 
